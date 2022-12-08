@@ -1,4 +1,7 @@
 appPort: 80
 appName: frontend
+ingress:
+  enabled: true
+  dnsName: www.rdevopsb69.online
 
 
